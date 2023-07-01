@@ -7388,7 +7388,7 @@ __metadata:
     "@types/numeral": ^2.0.2
     "@types/react": ^18.0.27
     "@types/react-datepicker": ^4.8.0
-    "@types/react-dom": ^18.0.10
+    "@types/react-dom": ^18.2.6
     "@types/react-helmet": 6.1.6
     "@types/react-router-dom": ^5.3.3
     "@types/react-virtualized-auto-sizer": ^1.0.1
@@ -8597,12 +8597,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:^18.0.0, @types/react-dom@npm:^18.0.10":
+"@types/react-dom@npm:^18.0.0":
   version: 18.0.10
   resolution: "@types/react-dom@npm:18.0.10"
   dependencies:
     "@types/react": "*"
   checksum: ff8282d5005a0b1cd95fb65bf79d3d8485e4cfe2aaf052129033a178684b940014a3f4536bc20d573f8a01cf4c6f4770c74988cef7c2b5cac3041d9f172647e3
+  languageName: node
+  linkType: hard
+
+"@types/react-dom@npm:^18.2.6":
+  version: 18.2.6
+  resolution: "@types/react-dom@npm:18.2.6"
+  dependencies:
+    "@types/react": "*"
+  checksum: b56e42efab121a3a8013d2eb8c1688e6028a25ea6d33c4362d2846f0af3760b164b4d7c34846614024cfb8956cca70dd1743487f152e32ff89a00fe6fbd2be54
   languageName: node
   linkType: hard
 
