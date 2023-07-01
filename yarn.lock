@@ -7470,7 +7470,7 @@ __metadata:
     react-device-detect: ^2.2.2
     react-dom: ^18.2.0
     react-error-overlay: 6.0.11
-    react-fast-marquee: ^1.3.5
+    react-fast-marquee: ^1.6.0
     react-feather: ^2.0.10
     react-helmet: ^6.1.0
     react-i18next: ^11.18.3
@@ -29133,13 +29133,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-fast-marquee@npm:^1.3.5":
-  version: 1.3.5
-  resolution: "react-fast-marquee@npm:1.3.5"
+"react-fast-marquee@npm:^1.6.0":
+  version: 1.6.0
+  resolution: "react-fast-marquee@npm:1.6.0"
   peerDependencies:
     react: ">= 16.8.0 || 18.0.0"
     react-dom: ">= 16.8.0 || 18.0.0"
-  checksum: 95301d63faa858ac0e8c2ab32e1e864ed49d8b36e96216960af0ac797bc30fe11c7747b9c3bed3728f5371e57a93277a064fd433c6f8e1a24a9a32bbf1d354e8
+  checksum: f448341d30ef417292d8f7618d4931190a6d4aa353fbd276da4dcecc49bb6a7a32962f9cc74fe0af2ea9617d7b453ed3efccf7a0e8709a8b66e04ec04f4ae18c
   languageName: node
   linkType: hard
 
