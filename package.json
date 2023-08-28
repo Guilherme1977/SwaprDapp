@@ -161,7 +161,7 @@
     "cypress": "12.9.0",
     "cypress-localstorage-commands": "2.2.3",
     "cypress-mochawesome-reporter": "3.3.0",
-    "eslint": "^8.37.0",
+    "eslint": "^8.48.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-config-react-app": "^7.0.1",
     "eslint-plugin-import": "2.27.5",
